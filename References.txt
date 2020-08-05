@@ -1,1 +1,10 @@
 https://www.evernote.com/shard/s657/sh/e38d0d54-ff8b-89f5-7065-074b918666af/7a3f9aeddfd304d4306939a7e84512c9
+
+
+^TO BE ADDED
+1. Dmitry Matveev. OpenCV Graph API. Intel Corporation,
+2018
+
+2. https://www.tensorflow.org/guide/intro_to_graphs
+
+
